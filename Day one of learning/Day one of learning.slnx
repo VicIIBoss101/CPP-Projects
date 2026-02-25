@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="arrays/arrays.vcxproj" />
+  <Project Path="Day one of learning/Day one of learning.vcxproj" />
+  <Project Path="for loop test soul/for loop test soul.vcxproj" />
+</Solution>

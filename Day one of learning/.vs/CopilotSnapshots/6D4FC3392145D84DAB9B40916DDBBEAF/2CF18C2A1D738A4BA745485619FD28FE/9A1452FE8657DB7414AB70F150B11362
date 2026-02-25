@@ -1,0 +1,10 @@
+﻿#include <iostreadm>
+int main() {
+	int number;
+	cout << "enter a number" << endl;
+	for (int i = 1; i <= number; i++) {
+		cout << number << " * " << i << " = " << (i * number) << endl;
+	}
+
+	return 0;
+}

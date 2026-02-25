@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\Desktop\\programming\\cpp\\Day one of learning\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6683711F-C5B5-4514-B0E4-4E3C1B9E5A92}|arrays\\arrays.vcxproj|C:\\Users\\hp\\Desktop\\programming\\cpp\\Day one of learning\\arrays\\arrays.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6683711F-C5B5-4514-B0E4-4E3C1B9E5A92}|arrays\\arrays.vcxproj|solutionrelative:arrays\\arrays.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "arrays.cpp",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\programming\\cpp\\Day one of learning\\arrays\\arrays.cpp",
+              "RelativeDocumentMoniker": "arrays\\arrays.cpp",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\programming\\cpp\\Day one of learning\\arrays\\arrays.cpp",
+              "RelativeToolTip": "arrays\\arrays.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-25T08:34:08.734Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
