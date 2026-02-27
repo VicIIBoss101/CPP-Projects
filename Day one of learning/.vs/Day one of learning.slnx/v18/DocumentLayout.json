@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\hp\\Desktop\\programming\\CPP-projects\\Day one of learning\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C5653DB0-BB31-4F52-A18E-9AE2DF879043}|check if student pass or faill\\check if student pass or faill.vcxproj|C:\\Users\\hp\\Desktop\\programming\\CPP-projects\\Day one of learning\\check if student pass or faill\\check if student pass or faill.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C5653DB0-BB31-4F52-A18E-9AE2DF879043}|check if student pass or faill\\check if student pass or faill.vcxproj|solutionrelative:check if student pass or faill\\check if student pass or faill.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6683711F-C5B5-4514-B0E4-4E3C1B9E5A92}|arrays\\arrays.vcxproj|C:\\Users\\hp\\Desktop\\programming\\CPP-projects\\Day one of learning\\arrays\\arrays.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{6683711F-C5B5-4514-B0E4-4E3C1B9E5A92}|arrays\\arrays.vcxproj|solutionrelative:arrays\\arrays.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -23,6 +27,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "check if student pass or faill.cpp",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\programming\\CPP-projects\\Day one of learning\\check if student pass or faill\\check if student pass or faill.cpp",
+              "RelativeDocumentMoniker": "check if student pass or faill\\check if student pass or faill.cpp",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\programming\\CPP-projects\\Day one of learning\\check if student pass or faill\\check if student pass or faill.cpp",
+              "RelativeToolTip": "check if student pass or faill\\check if student pass or faill.cpp",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAEAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-27T17:22:26.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "arrays.cpp",
               "DocumentMoniker": "C:\\Users\\hp\\Desktop\\programming\\CPP-projects\\Day one of learning\\arrays\\arrays.cpp",
               "RelativeDocumentMoniker": "arrays\\arrays.cpp",

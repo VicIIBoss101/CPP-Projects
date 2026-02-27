@@ -4,6 +4,7 @@
     <Platform Name="x86" />
   </Configurations>
   <Project Path="arrays/arrays.vcxproj" Id="6683711f-c5b5-4514-b0e4-4e3c1b9e5a92" />
+  <Project Path="check if student pass or faill/check if student pass or faill.vcxproj" Id="c5653db0-bb31-4f52-a18e-9ae2df879043" />
   <Project Path="Day one of learning/Day one of learning.vcxproj" Id="15109f46-99cc-4bca-94ac-744ee1ecb949" />
   <Project Path="for loop test soul/for loop test soul.vcxproj" Id="f57a113f-aabe-43ec-81bf-f91af1c6a572" />
 </Solution>
