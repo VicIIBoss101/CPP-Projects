@@ -39,3 +39,11 @@
 
 # debug information files
 *.dwo
+.vs/
+*.ipch
+*.exe
+*.obj
+*.pdb
+bin/
+debug/
+release/
