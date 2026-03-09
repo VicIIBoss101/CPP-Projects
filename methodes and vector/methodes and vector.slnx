@@ -3,6 +3,6 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="methodes and vector/methodes and vector.vcxproj" />
-  <Project Path="vector/vector.vcxproj" />
+  <Project Path="methodes and vector/methodes and vector.vcxproj" Id="b1515db2-7206-4869-8021-f6eb08d6f27c" />
+  <Project Path="vector/vector.vcxproj" Id="1e76e013-a50d-4215-bbd8-a4ad470110d0" />
 </Solution>
