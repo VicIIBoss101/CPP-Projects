@@ -41,13 +41,13 @@
 *.dwo
 .vs/
 .vs
-*.ipch
-*.exe
+# Visual Studio build files
+x64/
+Debug/
+Release/
 *.obj
+*.exe
 *.pdb
-bin/
-debug/
-release/
-.vcxproj
-.vcxproj.filters
-.vcxproj.user
+*.ilk
+*.user
+*.filters
