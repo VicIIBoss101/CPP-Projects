@@ -3,5 +3,9 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="First Project.vcxproj" />
+  <Project Path="../Constructor with parameters/Constructor with parameters.vcxproj" Id="49761a9a-69d4-4224-a18f-16d60b790611" />
+  <Project Path="../diffrent class file/diffrent class file.vcxproj" Id="1e151ea9-69b9-489a-85db-9b4176769e8d" />
+  <Project Path="../Inheritance/Inheritance.vcxproj" Id="0af226b6-db0e-4fef-9dc5-fdcfe71fa797" />
+  <Project Path="../meth inside class/meth inside class.vcxproj" Id="0c27cdde-a645-4d97-ae24-407010bfe35d" />
+  <Project Path="First Project.vcxproj" Id="034084f4-8560-4f83-a4a1-170ceaecd7bd" />
 </Solution>
