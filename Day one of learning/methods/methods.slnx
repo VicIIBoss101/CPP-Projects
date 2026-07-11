@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="little project using methods/little project using methods.vcxproj" />
+  <Project Path="methods/methods.vcxproj" />
+  <Project Path="Student manager/Student manager.vcxproj" />
+</Solution>

@@ -1,0 +1,11 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="eligiable to vote/eligiable to vote.vcxproj" />
+  <Project Path="find the sum and the average/find the sum and the average.vcxproj" />
+  <Project Path="grades/grades.vcxproj" />
+  <Project Path="multiplication for number/multiplication for number.vcxproj" />
+  <Project Path="something i learned in java/something i learned in java.vcxproj" />
+</Solution>
