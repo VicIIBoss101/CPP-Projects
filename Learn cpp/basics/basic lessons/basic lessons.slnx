@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="../read string with spaces/read string with spaces.vcxproj" />
+  <Project Path="../String_lesson/String_lesson.vcxproj" />
+  <Project Path="basic lessons.vcxproj" />
+</Solution>
