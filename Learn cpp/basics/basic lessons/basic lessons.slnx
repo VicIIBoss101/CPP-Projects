@@ -5,6 +5,7 @@
   </Configurations>
   <Project Path="../Function-1/Function-1.vcxproj" Id="d912d85d-f7a2-44aa-9150-eee5c4514787" />
   <Project Path="../read string with spaces/read string with spaces.vcxproj" Id="21153633-b312-401a-8f57-10aae47223e3" />
+  <Project Path="../some built-in function/some built-in function.vcxproj" Id="37937b4b-1cd0-40b6-abde-40b5307d28b5" />
   <Project Path="../String_lesson/String_lesson.vcxproj" Id="830c3695-c38a-4bf5-bda3-3faca3231143" />
   <Project Path="basic lessons.vcxproj" Id="e11b4a6a-42d9-4412-af4f-3cf4aa67928a" />
 </Solution>
