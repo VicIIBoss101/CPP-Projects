@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="../creating some functions/creating some functions.vcxproj" />
+  <Project Path="Main.vcxproj" />
+</Solution>
