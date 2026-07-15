@@ -3,6 +3,7 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
+  <Project Path="../Call by reference or value/Call by reference or value.vcxproj" Id="244d2f24-7863-4e44-82d9-857f641b854a" />
   <Project Path="../Function-1/Function-1.vcxproj" Id="d912d85d-f7a2-44aa-9150-eee5c4514787" />
   <Project Path="../read string with spaces/read string with spaces.vcxproj" Id="21153633-b312-401a-8f57-10aae47223e3" />
   <Project Path="../some built-in function/some built-in function.vcxproj" Id="37937b4b-1cd0-40b6-abde-40b5307d28b5" />
