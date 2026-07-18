@@ -3,6 +3,7 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="../creating some functions/creating some functions.vcxproj" />
-  <Project Path="Main.vcxproj" />
+  <Project Path="../creating some functions/creating some functions.vcxproj" Id="fbdd1464-794e-4499-a510-6785dc115e92" />
+  <Project Path="../Student System/Student System.vcxproj" Id="804ef039-cbbc-4273-8aba-4d89b6d69a31" />
+  <Project Path="Main.vcxproj" Id="5d44efdb-dcfb-465a-9a38-f702dc80c185" />
 </Solution>
